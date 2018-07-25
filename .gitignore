@@ -1,0 +1,13 @@
+# IDEA specified files
+.idea
+*.iml
+.gradle
+
+# target folder
+target
+drivers/*
+build
+out
+
+# bins
+*.exe
